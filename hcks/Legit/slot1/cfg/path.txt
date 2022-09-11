@@ -1,1 +1,1 @@
-path C:\\Aurora-Project\\
+path C:\Aurora-Project\
