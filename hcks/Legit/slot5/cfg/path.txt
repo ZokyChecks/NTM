@@ -1,1 +1,1 @@
-doci Nitama
+appd reversive\Configs
